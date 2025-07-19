@@ -53,5 +53,4 @@ This project is a complete end-to-end data analysis pipeline built using **Pytho
 
 ---
 
-## 📁 Project Structure
 
