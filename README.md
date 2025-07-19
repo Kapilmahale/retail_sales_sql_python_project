@@ -18,7 +18,7 @@ This project is a complete end-to-end data analysis pipeline built using **Pytho
 1. **Data Download**  
    - Downloaded sales dataset using Kaggle API
 
-2. **Data Cleaning & Processing**  
+2. **Data Cleaning & Processing using python**  
    - Removed duplicates  
    - Handled missing values  
    - Converted data types  
